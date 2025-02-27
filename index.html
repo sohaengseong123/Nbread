@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>소행성 엔빵 계산기</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+    <style>
+    </style>
+</head>
+<body class="bg-gray-900 text-white flex justify-center items-center min-h-screen flex-col p-4 overflow-y-auto">
+    <div class="w-full max-w-md p-6 bg-gray-800 rounded-lg shadow-md">
+        <h1 class="text-2xl font-bold text-center">소행성 정산</h1>
+        <p class="text-center text-gray-400 text-sm mt-2">N차의 경우 전체 참여자를 입력하세요.</p>
+        
+        <div class="mt-4 flex">
+            <input id="participantInput" type="text" placeholder="참여자를 입력하세요." class="flex-grow p-2 text-black rounded-md focus:outline-none">
+            <button id="addParticipant" class="ml-2 bg-green-600 hover:bg-green-700 text-white p-2 rounded-md">추가하기</button>
+        </div>
+        
+        <div class="mt-4 border border-gray-700 rounded-md p-2">
+            <p class="text-center text-gray-400">참여자 목록</p>
+            <div id="participantList" class="flex flex-wrap justify-center gap-2 mt-2 text-sm"></div>
+        </div>
+        
+        <button id="addLocation" class="w-full mt-4 bg-green-600 hover:bg-green-700 text-white p-2 rounded-md">1차 추가하기</button>
+    </div>
+    
+    <div id="locationContainer"  class="w-full max-w-md mt-4 "></div>
+
+    <div id="settleDiv" class="w-full max-w-md p-6 bg-gray-800 rounded-lg shadow-md" style="display:none;">
+        <h2 class="text-xl font-semibold text-center mb-4 cal_text" style="display:none;">정산내용</h2>
+        <div class="bg-gray-700 p-4 rounded-md cal_text" style="display:none;">
+            <p id="settlementContent" class="text-sm">
+               
+            </p>
+        </div>
+        <button id="copyButton" class="mt-4 w-full bg-blue-500 text-white py-2 rounded-md hover:bg-blue-600 cal_text" style="display:none;">
+            복사하기
+        </button>
+        <button id="settleButton" class="w-full mt-4 bg-green-600 hover:bg-green-700 text-white p-2 rounded-md">정산하기</button>
+    </div>
+
+    <script src="./app.js"></script>
+  
+</body>
+</html>
