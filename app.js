@@ -32,7 +32,9 @@ document.addEventListener("DOMContentLoaded", function () {
         participantList.appendChild(span);
         requestAnimationFrame(() => {
             input.value = "";  // 입력 필드 초기화
-            input.focus();     // 포커스 유지
+            setTimeout(() => {
+                input.focus();
+            }, 0);
         });
 
 
