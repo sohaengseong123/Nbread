@@ -31,6 +31,15 @@
 
     <div id="settleDiv" class="w-full max-w-md p-6 bg-gray-800 rounded-lg shadow-md" style="display:none;">
         <h2 class="text-xl font-semibold text-center mb-4 cal_text" style="display:none;">정산내용</h2>
+        <div class="flex justify-center gap-4 mb-2">
+            산출내용
+            <label>
+                <input type="radio" name="calculationDetail" value="include" >포함
+            </label>
+            <label>
+                <input type="radio" name="calculationDetail" value="exclude" checked>미포함
+            </label>
+        </div>
         <div class="bg-gray-700 p-4 rounded-md cal_text" style="display:none;">
             <p id="settlementContent" class="text-sm">
                
@@ -42,7 +51,8 @@
         <button id="settleButton" class="w-full mt-4 bg-green-600 hover:bg-green-700 text-white p-2 rounded-md">정산하기</button>
     </div>
 
-    <script src="./app.js?v=1"></script>
+    <script src="./app.js?v=2"></script>
   
 </body>
+
 </html>
