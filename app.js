@@ -1,1 +1,286 @@
-function _0x53db(_0xa185b5,_0x2ec4ee){const _0x3bd6bc=_0x3bd6();return _0x53db=function(_0x53db15,_0x6d4455){_0x53db15=_0x53db15-0x6a;let _0x7aa879=_0x3bd6bc[_0x53db15];return _0x7aa879;},_0x53db(_0xa185b5,_0x2ec4ee);}const _0x1402a6=_0x53db;(function(_0x544f00,_0xe8c61f){const _0x97f623=_0x53db,_0x4e61bd=_0x544f00();while(!![]){try{const _0x3df8ea=parseInt(_0x97f623(0xdc))/0x1+-parseInt(_0x97f623(0xb6))/0x2+parseInt(_0x97f623(0xb5))/0x3*(-parseInt(_0x97f623(0xda))/0x4)+-parseInt(_0x97f623(0xd3))/0x5*(parseInt(_0x97f623(0xd4))/0x6)+parseInt(_0x97f623(0x6a))/0x7+-parseInt(_0x97f623(0xac))/0x8*(-parseInt(_0x97f623(0xc6))/0x9)+parseInt(_0x97f623(0xa7))/0xa*(-parseInt(_0x97f623(0xc3))/0xb);if(_0x3df8ea===_0xe8c61f)break;else _0x4e61bd['push'](_0x4e61bd['shift']());}catch(_0x4d9fa2){_0x4e61bd['push'](_0x4e61bd['shift']());}}}(_0x3bd6,0xbc891),document[_0x1402a6(0xa4)](_0x1402a6(0xa2),function(){const _0x128959=_0x1402a6,_0x3b0226=document[_0x128959(0x72)]('participantInput'),_0x355bfa=document['getElementById'](_0x128959(0xaa)),_0x173b93=document[_0x128959(0x72)]('participantList'),_0x18428b=document[_0x128959(0x72)]('addLocation'),_0x245842=document['getElementById'](_0x128959(0xe0));let _0x312921=[],_0x2aadaa=0x0;function _0x315c31(){const _0xb5dcb2=_0x128959,_0x5418c7=_0x3b0226[_0xb5dcb2(0x6e)][_0xb5dcb2(0x9f)]();if(_0x5418c7===''){alert('참여자를\x20입력하세요.');return;}if(_0x312921[_0xb5dcb2(0x7f)](_0x5418c7)){alert(_0xb5dcb2(0x92));return;}_0x312921['push'](_0x5418c7);const _0x414f8f=document[_0xb5dcb2(0xa0)](_0xb5dcb2(0xca));_0x414f8f[_0xb5dcb2(0x70)]=_0xb5dcb2(0x7b),_0x414f8f[_0xb5dcb2(0x9b)]=_0x5418c7+'\x20❌',_0x414f8f['addEventListener']('click',function(){const _0x543569=_0xb5dcb2;_0x173b93[_0x543569(0x6c)](_0x414f8f),_0x312921=_0x312921[_0x543569(0xd0)](_0x5ae72a=>_0x5ae72a!==_0x5418c7),_0x13d3ae();}),_0x173b93[_0xb5dcb2(0xd5)](_0x414f8f),_0x3b0226[_0xb5dcb2(0x6e)]='',setTimeout(()=>{const _0x229495=_0xb5dcb2;_0x3b0226[_0x229495(0x6e)]='';},0xa),_0x3b0226[_0xb5dcb2(0x89)](),_0x13d3ae();}function _0x13d3ae(){const _0x111b86=_0x128959;document[_0x111b86(0xba)](_0x111b86(0xc1))[_0x111b86(0xa9)](_0x2be41a=>{const _0x28f1ba=_0x111b86;_0x2be41a['innerHTML']=_0x28f1ba(0x85),_0x312921[_0x28f1ba(0xa9)](_0x516049=>{const _0x1b258b=_0x28f1ba,_0x396592=document[_0x1b258b(0xa0)](_0x1b258b(0x6f));_0x396592[_0x1b258b(0x6e)]=_0x516049,_0x396592['textContent']=_0x516049,_0x2be41a['appendChild'](_0x396592);});});}function _0x56f54c(){const _0x32ffa0=_0x128959;if(_0x312921['length']===0x0){alert(_0x32ffa0(0x78));return;}_locationCount=$('#locationContainer')[_0x32ffa0(0x94)]()[_0x32ffa0(0x96)]+0x1;const _0x32447e=document[_0x32ffa0(0xa0)](_0x32ffa0(0x90));_0x32447e[_0x32ffa0(0x70)]='bg-gray-800\x20p-4\x20rounded-lg\x20shadow-md\x20mt-4',_0x32447e[_0x32ffa0(0x73)]=_0x32ffa0(0x71)+_locationCount+_0x32ffa0(0x6d)+_locationCount+_0x32ffa0(0xde)+_locationCount+_0x32ffa0(0xa6)+_locationCount+_0x32ffa0(0xbd)+_0x312921[_0x32ffa0(0x77)](_0x2ea035=>_0x32ffa0(0xdd)+_0x2ea035+'\x22>'+_0x2ea035+_0x32ffa0(0x9e))[_0x32ffa0(0x9c)]('')+_0x32ffa0(0xb1)+_locationCount+_0x32ffa0(0x84)+_locationCount+'\x22\x20style=\x22display:none\x22>알코올</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20class=\x22p-2\x22>삭제</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tbody\x20id=\x22locationParticipants'+_locationCount+_0x32ffa0(0x76)+_0x312921[_0x32ffa0(0x77)](_0x2e805f=>_0x32ffa0(0xb9)+_0x2e805f+_0x32ffa0(0xc5)+_locationCount+_0x32ffa0(0x88))[_0x32ffa0(0x9c)]('')+_0x32ffa0(0xd7);const _0x55e992=_0x32447e['querySelector'](_0x32ffa0(0xc1));_0x55e992[_0x32ffa0(0xa4)](_0x32ffa0(0xce),function(){const _0x1e4e9a=_0x32ffa0;_0x75f7bd(this,_0x1e4e9a(0xb3)+_locationCount);}),_0x245842['appendChild'](_0x32447e),_0x32447e[_0x32ffa0(0x97)]({'behavior':_0x32ffa0(0x81),'block':_0x32ffa0(0x83)}),$(_0x32ffa0(0x8b))[_0x32ffa0(0x91)](_locationCount+0x1+_0x32ffa0(0x75)),$(_0x32ffa0(0x93))['show']();}function _0x75f7bd(_0x3d21c6,_0x1050a0){const _0x5c3433=_0x128959,_0x1c2953=_0x3d21c6[_0x5c3433(0x6e)];if(!_0x1c2953)return;const _0x1f046e=document[_0x5c3433(0x72)](_0x1050a0);if([..._0x1f046e[_0x5c3433(0x94)]][_0x5c3433(0xaf)](_0x3c545f=>_0x3c545f[_0x5c3433(0x9b)]['includes'](_0x1c2953))){alert(_0x5c3433(0xc2)),_0x3d21c6[_0x5c3433(0x6e)]='';return;}const _0x198aa0=document['createElement'](_0x5c3433(0x90));_0x198aa0[_0x5c3433(0x70)]=_0x5c3433(0xc8),_0x198aa0[_0x5c3433(0x73)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22w-1/2\x22>'+_0x1c2953+_0x5c3433(0x9d),_0x3d21c6[_0x5c3433(0xa4)](_0x5c3433(0xb8),function(){removeParticipantFromLocation(this);}),_0x1f046e[_0x5c3433(0xd5)](_0x198aa0),_0x3d21c6[_0x5c3433(0x6e)]='';}_0x355bfa['addEventListener'](_0x128959(0xab),_0x315c31),_0x3b0226['addEventListener'](_0x128959(0x7c),function(_0x188871){const _0x2f84f7=_0x128959;_0x188871[_0x2f84f7(0xcc)]===_0x2f84f7(0x8a)&&_0x315c31();}),_0x18428b[_0x128959(0xa4)](_0x128959(0xab),_0x56f54c);}));function _0x3bd6(){const _0x299353=['then','flex\x20justify-between\x20items-center\x20bg-gray-700\x20p-2\x20rounded-md','#locationContainer\x20>\x20div','span','add','key','<br><br>','change','bg-blue-500','filter','.names','classList','10PpJrUM','2536350gOYTFV','appendChild','catch','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','parentElement','entries','1995596XGesZf','toLocaleString','1439969Heyitc','<option\x20class=\x27text-black\x27\x20value=\x22','차\x20총\x20결제\x20금액을\x20입력하세요.\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22text-sm\x20text-gray-400\x22>알코올\x20금액<br>(술을\x20마신\x20벙이\x20아니거나\x20논알콜\x20구분없을\x20시\x20생략가능합니다)</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20id=\x22alcohol_','keys','locationContainer','clipboard','6111399kRhFhm',')<br>','removeChild','차</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22text-red-500\x22\x20onclick=\x22removeLocation(this)\x22>❌</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22text-sm\x20text-gray-400\x22>장소\x20이름</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20class=\x22w-full\x20p-2\x20text-black\x20rounded-md\x20mb-2\x20location-name\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22text-sm\x20text-gray-400\x22>결제\x20금액(술값\x20포함\x20결제\x20총\x20금액)</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20class=\x22w-full\x20p-2\x20text-black\x20rounded-md\x20mb-2\x20location-amount\x22\x20placeholder=\x22','value','option','className','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22flex\x20justify-between\x20items-center\x20border-b\x20pb-2\x20mb-2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22text-lg\x20font-bold\x22>','getElementById','innerHTML','data-status','차\x20추가하기','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','map','참여자가\x20한명도\x20없습니다.','error','#settleButton','bg-gray-700\x20p-2\x20rounded-md\x20cursor-pointer','keypress','#locationContainer','setAttribute','includes','\x20(논알콜)','smooth','find','start','차\x20참여자\x20목록<br>(참여도가\x20100%가\x20아니면\x20조정해주세요<br>늦참일경우\x20참여도를\x20조정하시면\x20됩니다.<br>물론\x20벙주맘)</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20class=\x22w-full\x20text-center\x20text-sm\x20mt-2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22bg-gray-700\x20text-white\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20class=\x22p-2\x22>이름</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20class=\x22p-2\x22>참여도</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20class=\x22p-2\x20alcohol_','<option\x20value=\x22\x22>참여자를\x20추가하세요.</option>','.location-amount_alcohol','parent','\x22\x20\x20style=\x22display:none\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22alcohol-toggle\x20bg-blue-500\x20text-white\x20px-2\x20py-1\x20rounded-md\x22\x20data-status=\x22O\x22\x20onclick=\x22toggleAlcohol(this)\x22>O</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22p-2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22text-red-500\x20removeChk\x22\x20onclick=\x22removeParticipantFromLocation(this)\x22>❌</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>','focus','Enter','#addLocation','attr','writeText','<br>총합<br>============<br>','remove','div','text','이미\x20있는\x20참여자입니다.','#settleDiv','children','정산\x20내용이\x20복사되었습니다!','length','scrollIntoView','원)<br>','bg-red-500','#settlementContent','textContent','join','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20class=\x22w-20\x20text-black\x20p-1\x20rounded-md\x20text-center\x20participant-share\x22\x20value=\x22100\x22\x20min=\x220\x22\x20max=\x22100\x22>%\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22text-red-500\x20removeChk\x22>❌</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','</option>','trim','createElement','val','DOMContentLoaded','.participant-share','addEventListener','html','\x22\x20type=\x22number\x22\x20class=\x22w-full\x20p-2\x20text-black\x20rounded-md\x20mb-2\x20location-amount_alcohol\x20\x20placeholder=\x22','3092570sdglmX','show','forEach','addParticipant','click','200xOBYzT','input[name=\x27calculationDetail\x27]:checked','<br><br>소행성\x20정산<br>https://sohaengseong123.github.io/Nbread/<br>','some','closest','\x0a\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22border\x20border-gray-700\x20rounded-md\x20p-2\x20mt-2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22text-center\x20text-gray-400\x22>','innerText','locationParticipants','keyup','3EyHkfs','422008kaMwro','<br>','removeChk','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22bg-gray-700\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22p-2\x20names\x22>','querySelectorAll','settlementContent','each','차\x20중\x20술값만\x20입력하세요.\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22text-sm\x20text-gray-400\x22>참여자\x20추가</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<select\x20class=\x22participant-select\x20w-full\x20p-2\x20text-black\x20bg-white\x20rounded-md\x20mb-2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22\x22>참여자를\x20추가하세요.</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','include','push','hide','.participant-select','이미\x20있습니다.','11NSMPCH','원<br>============<br>','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22p-2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20class=\x22w-16\x20text-black\x20p-1\x20rounded-md\x20text-center\x20participant-share\x22\x20value=\x22100\x22\x20min=\x220\x22\x20max=\x22100\x22>%\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22p-2\x20\x20alcohol_','116577bLWTkm'];_0x3bd6=function(){return _0x299353;};return _0x3bd6();}function removeParticipantFromLocation(_0x3b070b){const _0x2c0919=_0x1402a6;_0x3b070b[_0x2c0919(0xd8)][_0x2c0919(0x8f)]();}function removeLocation(_0x55859b){const _0x4c2024=_0x1402a6;$(_0x55859b)[_0x4c2024(0x87)]()['parent']()['remove'](),_locationCount=$(_0x4c2024(0x7d))['children']()[_0x4c2024(0x96)]+0x1,$(_0x4c2024(0x8b))['text'](_locationCount+_0x4c2024(0x75)),_locationCount==0x1&&$(_0x4c2024(0x93))[_0x4c2024(0xc0)]();}$(_0x1402a6(0x7a))[_0x1402a6(0xab)](function(){const _0x1e794e=_0x1402a6;let _0x1f1b92=$(_0x1e794e(0xad))[_0x1e794e(0xa1)]()===_0x1e794e(0xbe),_0x1eafca='',_0x3ab74d={};_0x1eafca+='정산하겠습니다\x20!',$(_0x1e794e(0xc9))['each'](function(_0x33f9e1){const _0x279d1d=_0x1e794e;let _0xf82f=_0x33f9e1+0x1,_0x395bbb=$(this)[_0x279d1d(0x82)]('.location-name')[_0x279d1d(0xa1)]()||'장소'+_0xf82f,_0x1a6322=parseFloat($(this)[_0x279d1d(0x82)]('.location-amount')[_0x279d1d(0xa1)]()),_0x524917=parseFloat($(this)[_0x279d1d(0x82)](_0x279d1d(0x86))[_0x279d1d(0xa1)]())||0x0;if(isNaN(_0x1a6322)||_0x1a6322<=0x0)return;let _0x32abec=0x0,_0x46b922=0x0,_0x4dfaf0=[],_0x1fc2a6=[],_0x29c136=[];$(this)[_0x279d1d(0x82)](_0x279d1d(0xa3))[_0x279d1d(0xbc)](function(){const _0x4147e7=_0x279d1d;let _0x812d32=$(this)[_0x4147e7(0xb0)]('tr')['find'](_0x4147e7(0xd1))[_0x4147e7(0x91)](),_0x558015=parseFloat($(this)['val']()),_0x440505=$(this)['closest']('tr')[_0x4147e7(0x82)]('.alcohol-toggle')['attr']('data-status')==='O';!isNaN(_0x558015)&&_0x558015>0x0&&(_0x32abec+=_0x558015,_0x4dfaf0[_0x4147e7(0xbf)]({'name':_0x812d32,'share':_0x558015,'isAlcohol':_0x440505}),_0x440505?(_0x1fc2a6[_0x4147e7(0xbf)]({'name':_0x812d32,'share':_0x558015}),_0x46b922+=_0x558015):_0x29c136[_0x4147e7(0xbf)]({'name':_0x812d32,'share':_0x558015}));}),_0x32abec>0x0&&(_0x1eafca+=_0x279d1d(0xcd)+_0xf82f+'차('+_0x395bbb+_0x279d1d(0x6b)+_0x1a6322+_0x279d1d(0xc4),_0x4dfaf0['forEach'](({name:_0x1a392b,share:_0x11df22,isAlcohol:_0x1beb76})=>{const _0x1eee4b=_0x279d1d;let _0x26a29c=(_0x1a6322-_0x524917)*_0x11df22/_0x32abec,_0x1a9a43=_0x1beb76&&_0x524917>0x0?_0x524917*_0x11df22/_0x46b922:0x0,_0x4aea6c=_0x26a29c+_0x1a9a43,_0x191c78=_0x1f1b92?'\x20('+_0x11df22+'%)':'',_0x4e1a7a=_0x524917>0x0&&_0x1f1b92?_0x1beb76?'\x20(알콜)':_0x1eee4b(0x80):'';_0x1eafca+=_0x1a392b+'\x20('+_0x4aea6c['toLocaleString']()+'원)'+_0x191c78+_0x4e1a7a+_0x1eee4b(0xb7);if(!_0x3ab74d[_0x1a392b])_0x3ab74d[_0x1a392b]=0x0;_0x3ab74d[_0x1a392b]+=_0x4aea6c;}),_0x1eafca+='<br>');}),Object[_0x1e794e(0xdf)](_0x3ab74d)[_0x1e794e(0x96)]>0x0&&(_0x1eafca+=_0x1e794e(0x8e),Object[_0x1e794e(0xd9)](_0x3ab74d)[_0x1e794e(0xa9)](([_0x38ab63,_0x1a3afc])=>{const _0x3cdaef=_0x1e794e;_0x1eafca+=_0x38ab63+'\x20('+_0x1a3afc[_0x3cdaef(0xdb)]()+_0x3cdaef(0x98);})),!_0x1eafca?alert('장소이름\x20및\x20결제\x20금액을\x20입력해주세요.'):(_0x1eafca+=_0x1e794e(0xae),$('.cal_text')[_0x1e794e(0xa8)](),$(_0x1e794e(0x9a))[_0x1e794e(0xa5)](_0x1eafca));}),document[_0x1402a6(0x72)]('copyButton')[_0x1402a6(0xa4)](_0x1402a6(0xab),function(){const _0x348f2b=_0x1402a6,_0x93eef7=document[_0x348f2b(0x72)](_0x348f2b(0xbb))[_0x348f2b(0xb2)];navigator[_0x348f2b(0xe1)][_0x348f2b(0x8d)](_0x93eef7)[_0x348f2b(0xc7)](()=>{const _0x5a9347=_0x348f2b;alert(_0x5a9347(0x95));})[_0x348f2b(0xd6)](_0x47fd7c=>{const _0x2c2949=_0x348f2b;console[_0x2c2949(0x79)]('복사\x20실패:',_0x47fd7c);});}),$(document)['on'](_0x1402a6(0xb4),_0x1402a6(0x86),function(){const _0x571e78=_0x1402a6;let _0x24426c=$(this)[_0x571e78(0x8c)]('id');$(this)[_0x571e78(0xa1)]()==''?$('.'+_0x24426c)['hide']():$('.'+_0x24426c)[_0x571e78(0xa8)]();});function toggleAlcohol(_0x4c3fff){const _0x2cbd4f=_0x1402a6;_0x4c3fff['getAttribute'](_0x2cbd4f(0x74))==='O'?(_0x4c3fff['textContent']='X',_0x4c3fff[_0x2cbd4f(0x7e)]('data-status','X'),_0x4c3fff[_0x2cbd4f(0xd2)][_0x2cbd4f(0x8f)](_0x2cbd4f(0xcf)),_0x4c3fff[_0x2cbd4f(0xd2)]['add'](_0x2cbd4f(0x99))):(_0x4c3fff[_0x2cbd4f(0x9b)]='O',_0x4c3fff[_0x2cbd4f(0x7e)](_0x2cbd4f(0x74),'O'),_0x4c3fff[_0x2cbd4f(0xd2)][_0x2cbd4f(0x8f)](_0x2cbd4f(0x99)),_0x4c3fff[_0x2cbd4f(0xd2)][_0x2cbd4f(0xcb)]('bg-blue-500'));}
+document.addEventListener("DOMContentLoaded", function () {
+    const input = document.getElementById("participantInput");
+    const addButton = document.getElementById("addParticipant");
+    const participantList = document.getElementById("participantList");
+    const addLocationButton = document.getElementById("addLocation");
+    const locationContainer = document.getElementById("locationContainer");
+    let participants = [];
+    let locationCount = 0;
+
+    function addParticipant() {
+        const name = input.value.trim();
+        if(name === "" ){
+            alert('참여자를 입력하세요.')
+            return;
+        }
+        if (participants.includes(name)) {
+            alert('이미 있는 참여자입니다.')
+            return;
+        }
+
+        participants.push(name);
+
+        const span = document.createElement("span");
+        span.className = "bg-gray-700 p-2 rounded-md cursor-pointer";
+        span.textContent = name + " ❌";
+        span.addEventListener("click", function () {
+            participantList.removeChild(span);
+            participants = participants.filter(p => p !== name);
+            updateSelectOptions();
+        });
+
+        participantList.appendChild(span);
+        requestAnimationFrame(() => {
+            input.value = "";  // 입력 필드 초기화
+            input.focus();     // 포커스 유지
+        });
+
+
+        updateSelectOptions();
+    }
+
+    function updateSelectOptions() {
+        document.querySelectorAll(".participant-select").forEach(select => {
+            select.innerHTML = `<option value="">참여자를 추가하세요.</option>`;
+            participants.forEach(p => {
+                const option = document.createElement("option");
+                option.value = p;
+                option.textContent = p;
+                select.appendChild(option);
+            });
+        });
+    }
+
+    function addLocation() {
+        if (participants.length === 0){
+            alert('참여자가 한명도 없습니다.');
+            return;
+        } 
+        
+        
+        _locationCount = $("#locationContainer").children().length +1;
+        
+        const locationDiv = document.createElement("div");
+        locationDiv.className = "bg-gray-800 p-4 rounded-lg shadow-md mt-4";
+
+        locationDiv.innerHTML = `
+            <div class="flex justify-between items-center border-b pb-2 mb-2">
+            <span class="text-lg font-bold">${_locationCount}차</span>
+            <button class="text-red-500" onclick="removeLocation(this)">❌</button>
+        </div>
+
+        <label class="text-sm text-gray-400">장소 이름</label>
+        <input type="text" class="w-full p-2 text-black rounded-md mb-2 location-name">
+
+        <label class="text-sm text-gray-400">결제 금액(술값 포함 결제 총 금액)</label>
+        <input type="number" class="w-full p-2 text-black rounded-md mb-2 location-amount" placeholder="${_locationCount}차 총 결제 금액을 입력하세요.">
+
+         <label class="text-sm text-gray-400">알코올 금액<br>(술을 마신 벙이 아니거나 논알콜 구분없을 시 생략가능합니다)</label>
+        <input id="alcohol_${_locationCount}" type="number" class="w-full p-2 text-black rounded-md mb-2 location-amount_alcohol  placeholder="${_locationCount}차 중 술값만 입력하세요.">
+
+        <label class="text-sm text-gray-400">참여자 추가</label>
+        <select class="participant-select w-full p-2 text-black bg-white rounded-md mb-2">
+            <option value="">참여자를 추가하세요.</option>
+            ${participants.map(p => `<option class='text-black' value="${p}">${p}</option>`).join('')}
+        </select>
+
+        <div class="border border-gray-700 rounded-md p-2 mt-2">
+            <p class="text-center text-gray-400">${_locationCount}차 참여자 목록<br>(참여도가 100%가 아니면 조정해주세요<br>늦참일경우 참여도를 조정하시면 됩니다.<br>물론 벙주맘)</p>
+               <table class="w-full text-center text-sm mt-2">
+                 <thead>
+                        <tr class="bg-gray-700 text-white">
+                            <th class="p-2">이름</th>
+                            <th class="p-2">참여도</th>
+                            <th class="p-2 alcohol_${_locationCount}" style="display:none">알코올</th>
+                            <th class="p-2">삭제</th>
+                        </tr>
+                    </thead>
+                <tbody id="locationParticipants${_locationCount}">
+                ${participants.map(p => `
+                     <tr class="bg-gray-700">
+                                <td class="p-2 names">${p}</td>
+                                <td class="p-2">
+                                    <input type="number" class="w-16 text-black p-1 rounded-md text-center participant-share" value="100" min="0" max="100">%
+                                </td>
+
+                                <td class="p-2  alcohol_${_locationCount}"  style="display:none">
+                                    <button class="alcohol-toggle bg-blue-500 text-white px-2 py-1 rounded-md" data-status="O" onclick="toggleAlcohol(this)">O</button>
+                                </td>
+                                <td class="p-2">
+                                    <button class="text-red-500 removeChk" onclick="removeParticipantFromLocation(this)">❌</button>
+                                </td>
+                            </tr>`).join('')}
+                    </tbody>
+                </table>
+        </div>
+        `;
+
+        const select = locationDiv.querySelector(".participant-select");
+        select.addEventListener("change", function () {
+            addParticipantToLocation(this, `locationParticipants${_locationCount}`);
+        });
+
+        locationContainer.appendChild(locationDiv);
+        locationDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        $("#addLocation").text(`${_locationCount+1}차 추가하기`);
+        $("#settleDiv").show();
+    }
+
+    function addParticipantToLocation(select, locationId) {
+        const selectedValue = select.value;
+        if (!selectedValue) return;
+
+        const locationParticipants = document.getElementById(locationId);
+
+        if ([...locationParticipants.children].some(child => child.textContent.includes(selectedValue))) {
+            alert('이미 있습니다.')
+            select.value = "";
+            return;
+        }
+
+        const div = document.createElement("div");
+        div.className = "flex justify-between items-center bg-gray-700 p-2 rounded-md";
+        div.innerHTML = `
+            <span class="w-1/2">${selectedValue}</span>
+            <input type="number" class="w-20 text-black p-1 rounded-md text-center participant-share" value="100" min="0" max="100">%
+            <button class="text-red-500 removeChk">❌</button>
+        `;
+
+        select.addEventListener("removeChk", function () {
+            removeParticipantFromLocation(this);
+        });
+        locationParticipants.appendChild(div);
+        select.value = "";
+    }
+
+  
+
+   
+
+    addButton.addEventListener("click", addParticipant);
+    input.addEventListener("keypress", function (event) {
+        if (event.key === "Enter") {
+            addParticipant();
+        }
+    });
+
+    addLocationButton.addEventListener("click", addLocation);
+});
+
+ function removeParticipantFromLocation(element) {
+        element.parentElement.remove();
+}
+function removeLocation(el){
+    $(el).parent().parent().remove();
+    _locationCount = $("#locationContainer").children().length +1;
+    $("#addLocation").text(`${_locationCount}차 추가하기`);
+    if(_locationCount == 1 ){
+        $("#settleDiv").hide();
+    }
+}
+$("#settleButton").click(function() {
+    let includeDetails = $("input[name='calculationDetail']:checked").val() === "include";
+    let result = "";
+    let totalPayments = {};
+    result += `정산하겠습니다 !`;
+    $("#locationContainer > div").each(function(index) {
+        let locationNum = index + 1;
+        let locationName = $(this).find(".location-name").val() || `장소${locationNum}`;
+        let amount = parseFloat($(this).find(".location-amount").val());
+        let alcoholAmount = parseFloat($(this).find(".location-amount_alcohol").val()) || 0;
+
+        if (isNaN(amount) || amount <= 0) return;
+
+        let totalShare = 0;
+        let totalAlcoholShare = 0;
+        let participantData = [];
+        let alcoholUsers = [];
+        let nonAlcoholUsers = [];
+
+        $(this).find(".participant-share").each(function() {
+            let name = $(this).closest("tr").find(".names").text();
+            let share = parseFloat($(this).val());
+            let isAlcohol = $(this).closest("tr").find(".alcohol-toggle").attr("data-status") === "O";
+            
+            if (!isNaN(share) && share > 0) {
+                totalShare += share;
+                participantData.push({ name, share, isAlcohol });
+                if (isAlcohol) {
+                    alcoholUsers.push({ name, share });
+                    totalAlcoholShare += share;
+                } else {
+                    nonAlcoholUsers.push({ name, share });
+                }
+            }
+        });
+        
+        if (totalShare > 0) {
+            result += `<br><br>${locationNum}차(${locationName})<br>${amount}원<br>============<br>`;
+            participantData.forEach(({ name, share, isAlcohol }) => {
+                let baseAmount = (amount - alcoholAmount) * share / totalShare;
+
+                let alcoholCharge = isAlcohol && alcoholAmount > 0 ? (alcoholAmount * share / totalAlcoholShare) : 0;
+                let amountToPay = baseAmount + alcoholCharge;
+
+                let detailText = includeDetails ? ` (${share}%)` : "";
+                let alcoholText = (alcoholAmount > 0 && includeDetails) ? (isAlcohol ? " (알콜)" : " (논알콜)") : "";
+
+                result += `${name} (${amountToPay.toLocaleString()}원)${detailText}${alcoholText}<br>`;
+                if (!totalPayments[name]) totalPayments[name] = 0;
+                totalPayments[name] += amountToPay;
+            });
+            result += `<br>`;
+        }
+    });
+
+    if (Object.keys(totalPayments).length > 0) {
+        result += `<br>총합<br>============<br>`;
+        Object.entries(totalPayments).forEach(([name, amount]) => {
+            result += `${name} (${amount.toLocaleString()}원)<br>`;
+        });
+    }
+
+    if (!result) {
+        alert("장소이름 및 결제 금액을 입력해주세요.");
+    } else {
+        result += `<br><br>소행성 정산<br>https://sohaengseong123.github.io/Nbread/<br>`;
+        $(".cal_text").show();
+        $("#settlementContent").html(result);
+    }
+});
+
+
+document.getElementById("copyButton").addEventListener("click", function() {
+    const settlementText = document.getElementById("settlementContent").innerText;
+    
+    navigator.clipboard.writeText(settlementText).then(() => {
+        alert("정산 내용이 복사되었습니다!");
+    }).catch(err => {
+        console.error("복사 실패:", err);
+    });
+});
+
+
+$(document).on("keyup", ".location-amount_alcohol", function() {
+    let _id = $(this).attr("id");
+    if($(this).val() == ''){
+        $("."+_id).hide();
+    }else{
+        $("."+_id).show();
+    }
+});
+
+// 알코올 여부 토글 버튼 함수
+function toggleAlcohol(button) {
+    if (button.getAttribute("data-status") === "O") {
+        button.textContent = "X";
+        button.setAttribute("data-status", "X");
+        button.classList.remove("bg-blue-500");
+        button.classList.add("bg-red-500");
+    } else {
+        button.textContent = "O";
+        button.setAttribute("data-status", "O");
+        button.classList.remove("bg-red-500");
+        button.classList.add("bg-blue-500");
+    }
+}
